@@ -1,7 +1,7 @@
 """
 Programa que vaya llenando dos listas de numeros, una 
 lista de positivos y otra de negativos. 
-Entonces se debe imprimir el vector (sólo los elementos introducidos).
+Imprimir ambas listas.
 """
 
 positive_list = []
