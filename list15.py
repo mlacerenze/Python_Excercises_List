@@ -12,5 +12,7 @@ original_list = [1, 2, 2, 3, 4, 5, 6, 6, 7, 8, 8, 9, 10]
 
 set_list = set(original_list)
 print(set_list)
+
+# Volvemos a convertir el set en una lista
 original_list = list(set_list)
 print(original_list)
